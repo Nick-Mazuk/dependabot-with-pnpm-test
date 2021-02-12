@@ -1,0 +1,18 @@
+dependencies:
+  '@nick-mazuk/lib': 0.8.0
+lockfileVersion: 5.2
+packages:
+  /@nick-mazuk/lib/0.8.0:
+    dependencies:
+      validator: 13.5.2
+    dev: false
+    resolution:
+      integrity: sha512-fd66RgJTN+AAtmLxEkdLkSrIIq7PfTjTdmvwI3ldqeB9bNWb5MszZ/+aMbCPfg36kpMtBDETlO2MwU+qm/zYig==
+  /validator/13.5.2:
+    dev: false
+    engines:
+      node: '>= 0.10'
+    resolution:
+      integrity: sha512-mD45p0rvHVBlY2Zuy3F3ESIe1h5X58GPfAtslBjY7EtTqGquZTj+VX/J4RnHWN8FKq0C9WRVt1oWAcytWRuYLQ==
+specifiers:
+  '@nick-mazuk/lib': 0.8.0
