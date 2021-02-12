@@ -1,13 +1,13 @@
 dependencies:
-  '@nick-mazuk/lib': 0.8.0
+  '@nick-mazuk/lib': 0.8.12
 lockfileVersion: 5.2
 packages:
-  /@nick-mazuk/lib/0.8.0:
+  /@nick-mazuk/lib/0.8.12:
     dependencies:
       validator: 13.5.2
     dev: false
     resolution:
-      integrity: sha512-fd66RgJTN+AAtmLxEkdLkSrIIq7PfTjTdmvwI3ldqeB9bNWb5MszZ/+aMbCPfg36kpMtBDETlO2MwU+qm/zYig==
+      integrity: sha512-rHL8HIKoC7O9itKSsofqkVRP2NPb/DwkGvK70svrrAvahrsDtsddPu4n0DEeYbAA0Dtm9HHZTj8gyJM9in82dQ==
   /validator/13.5.2:
     dev: false
     engines:
@@ -15,4 +15,4 @@ packages:
     resolution:
       integrity: sha512-mD45p0rvHVBlY2Zuy3F3ESIe1h5X58GPfAtslBjY7EtTqGquZTj+VX/J4RnHWN8FKq0C9WRVt1oWAcytWRuYLQ==
 specifiers:
-  '@nick-mazuk/lib': 0.8.0
+  '@nick-mazuk/lib': 0.8.12
